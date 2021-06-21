@@ -1,0 +1,3 @@
+net\ddhome\integration\spring\log4j2\splunk\SpringLog4jSplunkConfig.class
+net\ddhome\integration\spring\log4j2\splunk\SpringLog4j2SplunkApplication.class
+net\ddhome\integration\spring\log4j2\splunk\service\SpringLog4j2SplunkService.class
